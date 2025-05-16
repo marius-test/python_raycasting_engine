@@ -86,8 +86,8 @@ def main():
         # handle player movement here
         keys = pygame.key.get_pressed()  # checks which keys are currently held down
         if keys[pygame.K_w]: player_y += math.sin(player_angle) * 0.1  # moves forward in the direction the player is facing
-        if keys[pygame.K_a]: player_x -= math.cos(player_angle) * 0.1  # moves backward
-        if keys[pygame.K_s]: player_y -= math.sin(player_angle) * 0.1  # strafe left
+        if keys[pygame.K_a]: player_x -= math.cos(player_angle) * 0.1  # strafe left
+        if keys[pygame.K_s]: player_y -= math.sin(player_angle) * 0.1  # moves backward
         if keys[pygame.K_d]: player_x += math.cos(player_angle) * 0.1  # strafe right
         if keys[pygame.K_LEFT]: player_angle -= 0.05  # rotate player left
         if keys[pygame.K_RIGHT]: player_angle += 0.05  # rotate player right
