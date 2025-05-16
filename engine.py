@@ -1,8 +1,8 @@
 # Warning: the following program has excessive commenting, not because the code is complex, 
 # but to aid my understanding of raycasting and 3D simulation in python as well as for future reference.
 
-import pygame
-import math
+import pygame  # used for rendering the screen, handling user input, and managing the game loop events
+import math  # provides 
 
 
 pygame.init()
