@@ -103,3 +103,6 @@ def main():
 
 if __name__ == '__main__':  # runs ONLY the main function if the file is executed
     main()
+
+# TODO add wall collisions
+# TODO fix graphics
