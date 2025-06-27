@@ -26,8 +26,8 @@ The project currently contains some bugs and is a prototype that I may expand on
 
 ---
 
-### Easter Egg
+### Extra
 
-Run zen.py to see the Python Zen by Tim Peters — a simple reminder for a great coding day!
+Run zen.py to see the Python Zen by Tim Peters - a simple reminder for a great coding day!
 
 > This is a prototype created for educational purposes and is not fully polished or feature-complete. Feel free to use, modify, or build upon this project.
