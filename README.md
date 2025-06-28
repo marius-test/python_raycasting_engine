@@ -1,4 +1,4 @@
-# python_raycasting_engine
+# raycasting_engine
 
 This project demonstrates a basic 3D raycasting engine inspired by early first-person shooters like *Wolfenstein 3D*.
 
